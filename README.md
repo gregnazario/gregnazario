@@ -3,7 +3,6 @@
 - 🔭 I'm currently working on the [Diem blockchain](https://github.com/diem/diem) 🧱⛓
 - 🌱 I’m currently learning how to have [my website on IPFS](https://ipfs.gnazar.io) without too many extra changes
 - 💬 Ask me about mentoring, industry, and general things.  I love to help!
-- 📫 How to reach me: DM me on [Twitter](https://twitter.com/greg_nazario)
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: I'd rather be climbing right now 🧗🏻‍♂️
 
