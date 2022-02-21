@@ -11,7 +11,7 @@
   - Focused my undergrad on digital design including making a [fully playable 1942 arcade game on an FPGA](https://github.com/gregnazario/1942_arcade) (software not included)
   - Masters focused more on software and software security 🔐
 
-- 1+ years at Meta
+- 2 years at Meta
   - Worked on networking, mempool, and state sync for the Diem blockchain.  [Commits](https://github.com/diem/diem/commits?author=gregnazario)
 - 6 years at AWS
   - 4 years at Elastic Load Balancer (ELB) -> APIs, Networking, Ops
