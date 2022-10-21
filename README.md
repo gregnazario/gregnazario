@@ -1,6 +1,6 @@
 ### Hi! 🧑🏻‍💻
 
-- 🧱⛓ I contributed to the [Diem blockchain](https://github.com/diem/diem)
+- I used to work on the [Diem blockchain](https://github.com/diem/diem), but helped found and build the [Aptos blockchain](https://github.com/aptos-labs/aptos-core), where I'm [(currently) the top contributor](https://github.com/aptos-labs/aptos-core/graphs/contributors).
 - ⚡ I built my personal website on [IPFS](https://ipfs.gnazar.io) as well as a traditional [HTTPS](https://gnazar.io) website.
 - 🌱 I’m thinking about ways to teach people who ask me questions about coding through tutorials.
 - 😄 Pronouns: he / his
