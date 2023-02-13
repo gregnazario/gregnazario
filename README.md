@@ -1,18 +1,24 @@
-### Hi! 🧑🏻‍💻
-
-- I used to work on the [Diem blockchain](https://github.com/diem/diem), but helped found and build the [Aptos blockchain](https://github.com/aptos-labs/aptos-core), where I'm [(currently) the top contributor](https://github.com/aptos-labs/aptos-core/graphs/contributors).
-- ⚡ I built my personal website on [IPFS](https://ipfs.gnazar.io) as well as a traditional [HTTPS](https://gnazar.io) website.
-- 🌱 I’m thinking about ways to teach people who ask me questions about coding through tutorials.
+### Hello builders! 🧑🏻‍💻
+- I'm a Software Engineer at @aptos-labs focused on the developers and their experience in the ecosystem.
+- I used to work on the [Diem blockchain](https://github.com/diem/diem) from 2020-2022, but helped found and build the [Aptos blockchain](https://github.com/aptos-labs/aptos-core), where I'm [(currently) the top contributor](https://github.com/aptos-labs/aptos-core/graphs/contributors).
 - 😄 Pronouns: he / his
 
+[![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregnazario)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Engineering Background
-- B.S. / M.S. Electrical & Computer Engineering at Carnegie Mellon
+#### University
+- B.S. & M.S. Electrical & Computer Engineering at Carnegie Mellon
   - Focused my undergrad on digital design including making a [fully playable 1942 arcade game on an FPGA](https://github.com/gregnazario/1942_arcade) (software not included)
   - Masters focused more on software and software security 🔐
 
+#### Work Experience
+- \>1 year at Aptos Labs
+  - Working on SDKs, APIs, and Tooling for the Aptos blockchain [Commits](https://github.com/aptos-labs/aptos-core/commits?author=gregnazario) 
 - 2 years at Meta
   - Worked on networking, mempool, and state sync for the Diem blockchain.  [Commits](https://github.com/diem/diem/commits?author=gregnazario)
 - 6 years at AWS
   - 4 years at Elastic Load Balancer (ELB) -> APIs, Networking, Ops
   - 2 years at Quantum Ledger Database (QLDB) -> APIs, Service integrations
+
+#### Fun Projects
+- Someday I'll have time for this :)
