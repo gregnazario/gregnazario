@@ -12,7 +12,7 @@
   - Masters focused more on software and software security 🔐
 
 #### Work Experience
-- \>1 year at Aptos Labs
+- \>2 years at Aptos Labs
   - Working on SDKs, APIs, and Tooling for the Aptos blockchain [Commits](https://github.com/aptos-labs/aptos-core/commits?author=gregnazario) 
 - 2 years at Meta
   - Worked on networking, mempool, and state sync for the Diem / Libra blockchain.  [Commits](https://github.com/diem/diem/commits?author=gregnazario)
