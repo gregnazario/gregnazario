@@ -5,6 +5,10 @@
 
 [![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregnazario)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gregnazario&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gregnazario&theme=tokyonight" alt="mystreak"/>
+
 ### Engineering Background
 #### University
 - B.S. & M.S. Electrical & Computer Engineering at Carnegie Mellon
