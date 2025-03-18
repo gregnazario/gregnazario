@@ -1,7 +1,6 @@
 ### Hello builders! 🧑🏻‍💻
 - I'm a Software Engineer at @aptos-labs focused on the developers and their experience in the ecosystem.
 - I used to work on the [Diem blockchain](https://github.com/diem/diem) from 2020-2022, but helped found and build the [Aptos blockchain](https://github.com/aptos-labs/aptos-core), where I'm [(currently) the top contributor](https://github.com/aptos-labs/aptos-core/graphs/contributors).
-- 😄 Pronouns: he / his
 
 [![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregnazario)](https://github.com/anuraghazra/github-readme-stats)
 
