@@ -1,37 +1,112 @@
-### Hello builders! 🧑🏻‍💻
-- I'm a Software Engineer at @aptos-labs focused on the developers and their experience in the ecosystem.
-- I used to work on the [Diem blockchain](https://github.com/diem/diem) from 2020-2022, but helped found and build the [Aptos blockchain](https://github.com/aptos-labs/aptos-core), where I'm [(currently) the top contributor](https://github.com/aptos-labs/aptos-core/graphs/contributors).
+<div align="center">
 
-### Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gregnazario&label=Profile%20views&color=0e75b6&style=flat" alt="gregnazario" /> </p>
+# Hi, I'm Greg 👋
 
-[![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregnazario)](https://github.com/anuraghazra/github-readme-stats)
+**Founding Engineer @ [Aptos Labs](https://github.com/aptos-labs)** · New York, NY
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gregnazario&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+Building developer tools & infrastructure for the [Aptos blockchain](https://github.com/aptos-labs/aptos-core).
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gregnazario&theme=tokyonight" alt="mystreak"/>
+[![Website](https://img.shields.io/badge/gnazar.io-0e4429?style=for-the-badge&logo=google-chrome&logoColor=00E676)](https://gnazar.io)
+[![X (Twitter)](https://img.shields.io/badge/@greg__nazario-0e4429?style=for-the-badge&logo=x&logoColor=00E676)](https://x.com/greg_nazario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e4429?style=for-the-badge&logo=linkedin&logoColor=00E676)](https://linkedin.com/in/gregnazario)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregnazario" alt="gregnazario" /></a> </p>
+</div>
 
-### Engineering Background
-#### University
-- B.S. & M.S. Electrical & Computer Engineering at Carnegie Mellon
-  - Focused my undergrad on digital design including making a [fully playable 1942 arcade game on an FPGA](https://github.com/gregnazario/1942_arcade) (software not included)
-  - Masters focused more on software and software security 🔐
+---
 
-#### Work Experience
-- \>2 years at Aptos Labs
-  - Working on SDKs, APIs, and Tooling for the Aptos blockchain [Commits](https://github.com/aptos-labs/aptos-core/commits?author=gregnazario) 
-- 2 years at Meta
-  - Worked on networking, mempool, and state sync for the Diem / Libra blockchain.  [Commits](https://github.com/diem/diem/commits?author=gregnazario)
-- 6 years at AWS
-  - 4 years at Elastic Load Balancer (ELB) -> APIs, Networking, Ops
-  - 2 years at Quantum Ledger Database (QLDB) -> APIs, Service integrations
+### 🛠 Tech Stack
 
-#### Fun Projects
-- [Some example Move contracts](https://github.com/aptos-labs/daily-move)
-- [A collection of onchain games for Aptos here](https://github.com/gregnazario/aptos-example-games)
-  - The first one that's used is https://tic-tac-toe.gnazar.io for on-chain tic-tac-toe
-- [An NFT marketplace and NFT launchpad example](https://github.com/gregnazario/aptos-test-nft-mint)
-  - A partial NFT marketplace example at https://nft-playground.gnazar.io
-- More coming soon...
+![Rust](https://img.shields.io/badge/Rust-0e4429?style=flat-square&logo=rust&logoColor=00E676)
+![Move](https://img.shields.io/badge/Move-0e4429?style=flat-square&logo=move&logoColor=00E676)
+![TypeScript](https://img.shields.io/badge/TypeScript-0e4429?style=flat-square&logo=typescript&logoColor=00E676)
+![Python](https://img.shields.io/badge/Python-0e4429?style=flat-square&logo=python&logoColor=00E676)
+![Go](https://img.shields.io/badge/Go-0e4429?style=flat-square&logo=go&logoColor=00E676)
+
+![React](https://img.shields.io/badge/React-0e4429?style=flat-square&logo=react&logoColor=00E676)
+![Next.js](https://img.shields.io/badge/Next.js-0e4429?style=flat-square&logo=next.js&logoColor=00E676)
+![Node.js](https://img.shields.io/badge/Node.js-0e4429?style=flat-square&logo=node.js&logoColor=00E676)
+
+![AWS](https://img.shields.io/badge/AWS-0e4429?style=flat-square&logo=amazon-aws&logoColor=00E676)
+![Docker](https://img.shields.io/badge/Docker-0e4429?style=flat-square&logo=docker&logoColor=00E676)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0e4429?style=flat-square&logo=kubernetes&logoColor=00E676)
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[aptos-example-games](https://github.com/gregnazario/aptos-example-games)**
+A collection of on-chain games for Aptos, including a live [tic-tac-toe](https://tic-tac-toe.gnazar.io).
+
+`TypeScript` `Move`
+
+</td>
+<td width="50%">
+
+**[aptos-hybrid-assets](https://github.com/gregnazario/aptos-hybrid-assets)**
+Hybrid digital and fungible asset contracts for Aptos (similar to ERC/DN-404).
+
+`Move`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[1942_arcade](https://github.com/gregnazario/1942_arcade)**
+A fully playable 1942 arcade game built on an FPGA — CMU senior capstone project.
+
+`Verilog` `FPGA`
+
+</td>
+<td width="50%">
+
+**[aptos-dependency-tracker](https://github.com/gregnazario/aptos-dependency-tracker)**
+Tracks and visualizes Aptos package dependencies.
+
+`TypeScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 Experience
+
+| | Role | Company | Focus |
+|---|------|---------|-------|
+| 🔵 | **Founding Engineer** | [Aptos Labs](https://aptosfoundation.org) | SDKs, APIs, and developer tooling for the Aptos blockchain |
+| ⚪ | **Software Engineer** | Meta (Diem) | Networking, mempool, and state sync for the Diem blockchain |
+| 🟧 | **Software Engineer** | AWS | ELB (APIs, Networking, Ops) · QLDB (APIs, Service Integrations) |
+
+**Education:** B.S. & M.S. Electrical & Computer Engineering · Carnegie Mellon University
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gregnazario&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E676&icon_color=00E676&text_color=8b949e&ring_color=00E676" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregnazario&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E676&text_color=8b949e&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gregnazario&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00E676&fire=00E676&currStreakLabel=00E676&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Built with ❤️ and way too much time tweaking badge colors</sub>
+
+</div>
