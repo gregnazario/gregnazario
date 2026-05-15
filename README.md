@@ -79,23 +79,15 @@ Tracks and visualizes Aptos package dependencies.
 
 | | Role | Company | Focus |
 |---|------|---------|-------|
-| 🔵 | **Founding Engineer** | [Aptos Labs](https://aptosfoundation.org) | SDKs, APIs, and developer tooling for the Aptos blockchain |
-| ⚪ | **Software Engineer** | Meta (Diem) | Networking, mempool, and state sync for the Diem blockchain |
-| 🟧 | **Software Engineer** | AWS | ELB (APIs, Networking, Ops) · QLDB (APIs, Service Integrations) |
+| 🚀 | **Founding Engineer** | [Aptos Labs](https://aptoslabs.com) | SDKs, APIs, and developer tooling for the Aptos blockchain |
+| ⛓️ | **Software Engineer** | Meta (Diem) | Networking, mempool, and state sync for the Diem blockchain |
+| ☁️ | **Software Engineer** | AWS | ELB (APIs, Networking, Ops) · QLDB (APIs, Service Integrations) |
 
 **Education:** B.S. & M.S. Electrical & Computer Engineering · Carnegie Mellon University
 
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gregnazario&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E676&icon_color=00E676&text_color=8b949e&ring_color=00E676" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregnazario&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00E676&text_color=8b949e&langs_count=8" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
