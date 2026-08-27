@@ -147,8 +147,6 @@ Immutable indexed binary file format for time-series range queries, with native 
 **[retro-ui](https://github.com/gregnazario/retro-ui)**
 A collection of libraries for retro-looking React UIs.
 
-`React`
-
 </td>
 </tr>
 <tr>
@@ -169,7 +167,7 @@ A fully playable 1942 arcade game built on an FPGA — CMU senior capstone proje
 
 | Role | Company | Focus |
 |------|---------|-------|
-| **Founding Engineer** | [Aptos Labs](https://aptosfoundation.org) | SDKs, APIs, and developer tooling for the Aptos blockchain |
+| **Founding Engineer** | [Aptos Labs](https://aptoslabs.com) | SDKs, APIs, and developer tooling for the Aptos blockchain |
 | **Software Engineer** | Meta (Diem) | Networking, mempool, and state sync for the Diem blockchain |
 | **Software Engineer** | AWS | ELB (APIs, Networking, Ops) · QLDB (APIs, Service Integrations) |
 
@@ -189,6 +187,6 @@ A fully playable 1942 arcade game built on an FPGA — CMU senior capstone proje
 
 <div align="center">
 
-<sub>Built with and way too much time tweaking badge colors</sub>
+<sub>Built with way too much time tweaking badge colors</sub>
 
 </div>
